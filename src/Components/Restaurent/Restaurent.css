@@ -1,0 +1,16 @@
+.custom-input{
+    margin: 25px 0;
+    border: 2px solid salmon;
+    padding: 15px;
+    border-radius: 30px;
+    width: 30rem;
+    color: salmon;
+
+
+}
+.custom-input::placeholder{
+    color: salmon;
+}
+.custom-input:focus-visible{
+   outline-color: salmon;
+}
